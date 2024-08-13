@@ -3,6 +3,8 @@
 This project is done by Akash BR.
 Want to know more about Me. LinkedIn: https://www.linkedin.com/in/akash-br-b86a94219/
 
+To try the game, click this link: https://akashbellary.github.io/Hangman-game/
+
 # About the project
 
 This is a project inspired by the childrens word guessing game, "The Hangman".
